@@ -7,10 +7,6 @@
 		{
 			"ronin_address": "dd17425e04037dd73dae587a49075a38af67febd",
 			"name": "cae"
-		},
-		{
-			"ronin_address": "test123",
-			"name": "testing"
 		}
 	],
 
@@ -82,6 +78,6 @@
 		{
 			"ronin_address": "c215a5584a927a593260852af5d91ead39422f23",
 			"name": "richard"
-		}		
+		}
 	]
 }
