@@ -2,7 +2,13 @@
 	"admins": [
 		{
 			"ronin_address": "f1bcd70d026b9479cb1340611f79d1bed7db2781",
-			"name": "romz"
+			"name": "romz",
+			"team": [
+				"300489",
+				"297896",
+				"291041"
+			]
+
 		},
 		{
 			"ronin_address": "dd17425e04037dd73dae587a49075a38af67febd",
@@ -78,6 +84,10 @@
 		{
 			"ronin_address": "c215a5584a927a593260852af5d91ead39422f23",
 			"name": "richard"
+		},
+		{
+			"ronin_address": "9e04575ee041da36f1d5bfdf2dbe539756a83e1b",
+			"name": "lj"
 		}
 	]
 }
