@@ -12,82 +12,186 @@
 		},
 		{
 			"ronin_address": "dd17425e04037dd73dae587a49075a38af67febd",
-			"name": "cae"
+			"name": "cae",
+			"team": [
+				"698311",
+				"594074",
+				"414430"
+			]
 		}
 	],
 
 	"members": [
 		{
 			"ronin_address": "a875da2f996f88f3298548c9727699dc7662cbac",
-			"name": "jeje"
+			"name": "jeje",
+			"team": [
+				"1588215",
+				"1588070",
+				"1538689"
+			]
 		},
 		{
 			"ronin_address": "23ec3ff7f1e4230f0ab9d0da5e6e5025a4d3a6cb",
-			"name": "coleen"
+			"name": "coleen",
+			"team": [
+				"793786",
+				"793772",
+				"762662"
+			]
 		},
 		{
 			"ronin_address": "99e41be915a61ebb1b36235742e0b2a7fe5fb835",
-			"name": "ian"
+			"name": "ian",
+			"team": [
+				"793800",
+				"793760",
+				"785338"
+			]
 		},
 		{
 			"ronin_address": "340e9b779edf23a3dfc19ade97339b4797560d39",
-			"name": "jamil"
+			"name": "jamil",
+			"team": [
+				"3213294",
+				"1216732",
+				"903803"
+			]
 		},
 		{
 			"ronin_address": "88fadc71aa9e2a7243f22811770eecae13ef536e",
-			"name": "jonie"
+			"name": "jonie",
+			"team": [
+				"874528",
+				"874370",
+				"874361"
+			]
 		},
 		{
 			"ronin_address": "b9111d13a6ba72d27cca50f89a4e5f57ad309823",
-			"name": "diane"
+			"name": "diane",
+			"team": [
+				"2958762",
+				"911203",
+				"562821"
+			]
 		},
 		{
 			"ronin_address": "8737596644ea5e6fd5b2c5ecf1bdc4eb878d2069",
-			"name": "johnrey"
+			"name": "johnrey",
+			"team": [
+				"1051587",
+				"1016972",
+				"997059"
+			]
 		},
 		{
 			"ronin_address": "8adb797c2d4510f760467a47632dbbee5ab18128",
-			"name": "johnryan"
+			"name": "johnryan",
+			"team": [
+				"1226497",
+				"1226474",
+				"1226390"
+			]
 		},
 		{
 			"ronin_address": "52c0c26861d6bd3281acd2860c63392333d461c5",
-			"name": "ejell"
+			"name": "ejell",
+			"team": [
+				"1226665",
+				"1226606",
+				"1226344"
+			]
 		},
 		{
 			"ronin_address": "9b7356d148d519618ebcabf9a11dc86e884567b4",
-			"name": "reinier"
+			"name": "reinier",
+			"team": [
+				"1261877",
+				"1226700",
+				"1226439"
+			]
 		},
 		{
 			"ronin_address": "b4ffc3756fa7b3e53b24d30ae9849bffd33c73a2",
-			"name": "johnrobert"
+			"name": "johnrobert",
+			"team": [
+				"2417033",
+				"2295244",
+				"2210719"
+			]
 		},
 		{
 			"ronin_address": "d499c29c0c350e84804b53d6035c6c8921010764",
-			"name": "kim"
+			"name": "kim",
+			"team": [
+				"1587880",
+				"1538804",
+				"1495926"
+			]
 		},
 		{
 			"ronin_address": "1509d0d4bbdc47a70dff2d1e50cfecd8bb0c87a7",
-			"name": "jeralyn"
+			"name": "jeralyn",
+			"team": [
+				"1560500",
+				"1552834",
+				"195258"
+			]
 		},
 		{
 			"ronin_address": "d66ad39adbafa5bcae8f0cafc46fadf889c5b38d",
-			"name": "henry"
+			"name": "henry",
+			"team": [
+				"2871688",
+				"1588154",
+				"1455916"
+			]
 		},
 		{
 			"ronin_address": "53bb29f8c28d612e604b1fb92240400b33d1958e",
-			"name": "arman"
+			"name": "arman",
+			"team": [
+				"2564734",
+				"2564541",
+				"2564333"
+			]
 		},
 		{
 			"ronin_address": "3bedfa92691e5b13693fa08d22b11c107623a8bb",
-			"name": "ismael"
+			"name": "ismael",
+			"team": [
+				"2564710",
+				"2564506",
+				"2564313"
+			]
 		},
 		{
 			"ronin_address": "c215a5584a927a593260852af5d91ead39422f23",
-			"name": "richard"
+			"name": "richard",
+			"team": [
+				"2564418",
+				"2437362",
+				"2186076"
+			]
 		},
 		{
 			"ronin_address": "9e04575ee041da36f1d5bfdf2dbe539756a83e1b",
-			"name": "lj"
+			"name": "lj",
+			"team": [
+				"2872113",
+				"2872073",
+				"1587813"
+			]
+		},
+		{
+			"ronin_address": "e7128a9062037bb560d0f919167d909b224c76c2",
+			"name": "obey",
+			"team": [
+				"3213931",
+				"3213530",
+				"1419208"
+			]
 		}
 	]
 }
