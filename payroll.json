@@ -1,0 +1,334 @@
+{
+	"dates": {
+		"1" : {
+			"date": "June 19, 2021",
+			"owned_slp_collected": 1412,
+			"owned_slp_converted": 8814.83,
+			"raw_slp_collected": 1412,
+			"raw_slp_converted": 8814.83,
+			"meta_to_binance_link": "https://etherscan.io/tx/0x1d2ceefff0088fd06f69f91f719bd9f289b41ddff7c0711953f25433a8214213",
+			"binance_p2p_transactions": [
+				"https://c2c.binance.com/en/fiatOrderDetail?orderNo=20239513978447523840"
+			],
+			"deductions": []
+		},
+		"2" : {
+			"date": "July 4, 2021",
+			"owned_slp_collected": 5941,
+			"owned_slp_converted": 49547.94,
+			"raw_slp_collected": 11300,
+			"raw_slp_converted": 94692,
+			"meta_to_binance_link": "https://etherscan.io/tx/0xf1369e138ad06ca57112e2867630521219e1fcee553a6123c2c27155a0f0d170",
+			"binance_p2p_transactions": [
+				"https://c2c.binance.com/en/fiatOrderDetail?orderNo=20244883493494386688"
+			],
+			"deductions": [
+				{
+					"id": "ronin_to_meta",
+					"value": 270,
+					"description": ""
+				},
+				{
+					"id": "meta_to_binance",
+					"value": 130,
+					"description": ""
+				},
+				{
+					"id": "others",
+					"value": 50,
+					"description": "50 peso mixed"
+				},
+					
+			]
+		},
+		"3" : {
+			"date": "July 17, 2021",
+			"owned_slp_collected": 4643,
+			"owned_slp_converted": 63852.75,
+			"raw_slp_collected": 4643,
+			"raw_slp_converted": 65346.75,
+			"meta_to_binance_link": "https://etherscan.io/tx/0x7846847aa112cfbd066e1500e70995c245635c343ee29e8d774b380ca3ead7ef",
+			"binance_p2p_transactions": [
+				"https://c2c.binance.com/en/fiatOrderDetail?orderNo=20249430221826424832"
+			],
+			"deduction": [
+				{
+					"id": "ronin_to_meta",
+					"value": 1265,
+					"description": ""
+				},
+				{
+					"id": "meta_to_binance",
+					"value": 229,
+					"description": ""
+				},
+			]
+		},
+		"4" : {
+			"date": "July 31, 2021",
+			"owned_slp_collected": 53600,
+			"owned_slp_converted": 606734.24,
+			"raw_slp_collected": 61702,
+			"raw_slp_converted": 699463.68,
+			"meta_to_binance_link": "https://etherscan.io/tx/0x21724856ec81f1a9bf28f88d7228e36c0a266bd9d8554c50a6b15fb3f40c6c82",
+			"binance_p2p_transactions": [
+				"https://c2c.binance.com/en/fiatOrderDetail?orderNo=20254844478111985664",
+				"https://c2c.binance.com/en/fiatOrderDetail?orderNo=20254847868847894528"
+			],
+			"deduction": [
+				{
+					"id": "ronin_to_meta",
+					"value": 735,
+					"description": ""
+				},
+				{
+					"id": "meta_to_binance",
+					"value": 293.98,
+					"description": ""
+				},
+			]
+		},
+		"5" : {
+			"date": "August 14, 2021",
+			"owned_slp_collected": 30608,
+			"owned_slp_converted": 270841.44,
+			"raw_slp_collected": 42183,
+			"raw_slp_converted": 377065.31,
+			"meta_to_binance_link": "https://etherscan.io/tx/0x2f53ec65f7df6f83e4aa041845914640789509040460f20315d4a82be60a83e4",
+			"binance_p2p_transactions": [
+				"https://c2c.binance.com/en/fiatOrderDetail?orderNo=20259905335826735104"
+			],
+			"deduction": [
+				{
+					"id": "ronin_to_meta",
+					"value": 2150,
+					"description": "https://etherscan.io/tx/0x23b5f7eae6b33379ac0b7ff788bf1e3918c1cd6e3ed1f0ba78962224647b0a03"
+				},
+				{
+					"id": "meta_to_binance",
+					"value": 650,
+					"description": "https://etherscan.io/tx/0x2f53ec65f7df6f83e4aa041845914640789509040460f20315d4a82be60a83e4"
+				},
+				{
+					"id": "bank_to_binance_to_meta",
+					"value": 1000,
+					"description": "For ethereum gas fee cash-in purpose, fixed value (600) + allowance from P2P (400)"
+				}
+			]
+		}
+	},
+	"payslips": {
+		"a875da2f996f88f3298548c9727699dc7662cbac": 
+		{
+			"name": "jeje",
+			"cash_info": 
+			{
+				"1": 1412,
+				"2": 2102,
+				"4": 4292,
+				"5": 2371
+			}
+			
+		},
+		"23ec3ff7f1e4230f0ab9d0da5e6e5025a4d3a6cb": 
+		{
+			"name": "coleen",
+			"cash_info": 
+			{
+				"2": 2117,
+				"4": 4549,
+				"5": 2270
+			}
+			
+		},
+		"99e41be915a61ebb1b36235742e0b2a7fe5fb835": 
+		{
+			"name": "ian",
+			"cash_info": 
+			{
+				"2": 1722,
+				"4": 4781
+			}
+			
+		},
+		"340e9b779edf23a3dfc19ade97339b4797560d39": 
+		{
+			"name": "jamil",
+			"cash_info": 
+			{
+				"4": 4615
+			}
+			
+		},
+		"88fadc71aa9e2a7243f22811770eecae13ef536e": 
+		{
+			"name": "jonie",
+			"cash_info": 
+			{
+				"3": 4643,
+				"4": 3234
+			}
+			
+		},
+		"b9111d13a6ba72d27cca50f89a4e5f57ad309823": 
+		{
+			"name": "diane",
+			"cash_info": 
+			{
+				"4": 5865
+			}
+			
+		},
+		"8737596644ea5e6fd5b2c5ecf1bdc4eb878d2069": 
+		{
+			"name": "johnrey",
+			"cash_info": 
+			{
+				"4": 3558,
+				"5": 2371
+			}
+			
+		},
+		"8adb797c2d4510f760467a47632dbbee5ab18128": 
+		{
+			"name": "johnryan",
+			"cash_info": 
+			{
+				"4": 4795,
+				"5": 3009
+			}
+			
+		},
+		"52c0c26861d6bd3281acd2860c63392333d461c5": 
+		{
+			"name": "ejell",
+			"cash_info": 
+			{
+				"4": 5672,
+				"5": 3051
+			}
+			
+		},
+		"9b7356d148d519618ebcabf9a11dc86e884567b4": 
+		{
+			"name": "reinier",
+			"cash_info": 
+			{
+				"4": 2661,
+				"5": 2404
+			}
+			
+		},
+		"b4ffc3756fa7b3e53b24d30ae9849bffd33c73a2": 
+		{
+			"name": "johnrobert",
+			"cash_info": 
+			{
+				"4": 1475,
+				"5": 1947
+			}
+			
+		},
+		"d499c29c0c350e84804b53d6035c6c8921010764": 
+		{
+			"name": "kim",
+			"cash_info": 
+			{
+				"4": 3446,
+				"5": 2800
+			}
+			
+		},
+		"1509d0d4bbdc47a70dff2d1e50cfecd8bb0c87a7": 
+		{
+			"name": "jeralyn",
+			"cash_info": 
+			{
+				"4": 2846
+			}
+			
+		},
+		"d66ad39adbafa5bcae8f0cafc46fadf889c5b38d": 
+		{
+			"name": "henry",
+			"cash_info": 
+			{
+				"4": 1811,
+				"5": 2224
+			}
+			
+		},
+		"53bb29f8c28d612e604b1fb92240400b33d1958e": 
+		{
+			"name": "arman",
+			"cash_info": {}
+			
+		},
+		"3bedfa92691e5b13693fa08d22b11c107623a8bb": 
+		{
+			"name": "ismael",
+			"cash_info": 
+			{
+				"5": 1942
+			}
+			
+		},
+		"c215a5584a927a593260852af5d91ead39422f23": 
+		{
+			"name": "richard",
+			"cash_info": 
+			{
+				"5": 2809
+			}
+			
+		},
+		"9e04575ee041da36f1d5bfdf2dbe539756a83e1b": 
+		{
+			"name": "lj",
+			"cash_info": {}
+			
+		},
+		"e7128a9062037bb560d0f919167d909b224c76c2": 
+		{
+			"name": "obey",
+			"cash_info": {}
+			
+		},
+		"4413645383c72f21db24f6ded074a6f3817d790d": 
+		{
+			"name": "paolo",
+			"cash_info": {}
+			
+		},
+		"1d41ae2869be18977278f6d87a085d4e1745c7d4": 
+		{
+			"name": "pia",
+			"cash_info": {}
+			
+		},
+		"0ff72d7a28394bc122549bc98a95c427522a8cc5": 
+		{
+			"name": "junielon",
+			"cash_info": {}
+			
+		},
+		"60883f051b05ebb7f5485022c9b24b9097d95add": 
+		{
+			"name": "hernan",
+			"cash_info": {}
+			
+		},
+		"3688c007cb301fc4f3a6b658c9d3476e7abc3861": 
+		{
+			"name": "mark",
+			"cash_info": {}
+			
+		},
+		"cb3398b2041db55a7ec00a41d7d10845297132c4": 
+		{
+			"name": "jas",
+			"cash_info": {}
+			
+		},
+	}
+}
