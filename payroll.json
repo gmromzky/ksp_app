@@ -50,7 +50,7 @@
 			"binance_p2p_transactions": [
 				"https://c2c.binance.com/en/fiatOrderDetail?orderNo=20249430221826424832"
 			],
-			"deduction": [
+			"deductions": [
 				{
 					"id": "ronin_to_meta",
 					"value": 1265,
@@ -74,7 +74,7 @@
 				"https://c2c.binance.com/en/fiatOrderDetail?orderNo=20254844478111985664",
 				"https://c2c.binance.com/en/fiatOrderDetail?orderNo=20254847868847894528"
 			],
-			"deduction": [
+			"deductions": [
 				{
 					"id": "ronin_to_meta",
 					"value": 735,
@@ -97,7 +97,7 @@
 			"binance_p2p_transactions": [
 				"https://c2c.binance.com/en/fiatOrderDetail?orderNo=20259905335826735104"
 			],
-			"deduction": [
+			"deductions": [
 				{
 					"id": "ronin_to_meta",
 					"value": 2150,
