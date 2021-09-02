@@ -6,7 +6,6 @@
 			"owned_slp_converted": 8814.83,
 			"raw_slp_collected": 1412,
 			"raw_slp_converted": 8814.83,
-			"meta_to_binance_link": "https://etherscan.io/tx/0x1d2ceefff0088fd06f69f91f719bd9f289b41ddff7c0711953f25433a8214213",
 			"binance_p2p_transactions": [
 				"https://c2c.binance.com/en/fiatOrderDetail?orderNo=20239513978447523840"
 			],
@@ -18,7 +17,6 @@
 			"owned_slp_converted": 49547.94,
 			"raw_slp_collected": 11300,
 			"raw_slp_converted": 94692,
-			"meta_to_binance_link": "https://etherscan.io/tx/0xf1369e138ad06ca57112e2867630521219e1fcee553a6123c2c27155a0f0d170",
 			"binance_p2p_transactions": [
 				"https://c2c.binance.com/en/fiatOrderDetail?orderNo=20244883493494386688"
 			],
@@ -46,7 +44,6 @@
 			"owned_slp_converted": 63852.75,
 			"raw_slp_collected": 4643,
 			"raw_slp_converted": 65346.75,
-			"meta_to_binance_link": "https://etherscan.io/tx/0x7846847aa112cfbd066e1500e70995c245635c343ee29e8d774b380ca3ead7ef",
 			"binance_p2p_transactions": [
 				"https://c2c.binance.com/en/fiatOrderDetail?orderNo=20249430221826424832"
 			],
@@ -69,7 +66,6 @@
 			"owned_slp_converted": 606734.24,
 			"raw_slp_collected": 61702,
 			"raw_slp_converted": 699463.68,
-			"meta_to_binance_link": "https://etherscan.io/tx/0x21724856ec81f1a9bf28f88d7228e36c0a266bd9d8554c50a6b15fb3f40c6c82",
 			"binance_p2p_transactions": [
 				"https://c2c.binance.com/en/fiatOrderDetail?orderNo=20254844478111985664",
 				"https://c2c.binance.com/en/fiatOrderDetail?orderNo=20254847868847894528"
@@ -93,7 +89,6 @@
 			"owned_slp_converted": 270841.44,
 			"raw_slp_collected": 42183,
 			"raw_slp_converted": 377065.31,
-			"meta_to_binance_link": "https://etherscan.io/tx/0x2f53ec65f7df6f83e4aa041845914640789509040460f20315d4a82be60a83e4",
 			"binance_p2p_transactions": [
 				"https://c2c.binance.com/en/fiatOrderDetail?orderNo=20259905335826735104"
 			],
@@ -114,6 +109,33 @@
 					"description": "For ethereum gas fee cash-in purpose, fixed value (600) + allowance from P2P (400)"
 				}
 			]
+		},
+		"6" : {
+			"date": "August 29, 2021",
+			"owned_slp_collected": 44816,
+			"owned_slp_converted": 300444.76,
+			"raw_slp_collected": 50220,
+			"raw_slp_converted": 336672.98,
+			"binance_p2p_transactions": [
+				"https://c2c.binance.com/en/fiatOrderDetail?orderNo=20259905335826735104"
+			],
+			"deductions": [
+				{
+					"id": "ronin_to_meta",
+					"value": 1567,
+					"description": "https://etherscan.io/tx/0xb31423942ec8f5bd596b5b5ac1a3f2dd93d75548dcfe71d2ef4ad788b28794ae"
+				},
+				{
+					"id": "meta_to_binance",
+					"value": 890,
+					"description": "https://etherscan.io/tx/0xc8d13e742cdb4c40066f585e7ecd3ea620aa5cdaf8f3cee62d0765b6721a4fa6"
+				},
+				{
+					"id": "bank_to_binance_to_meta",
+					"value": 1000,
+					"description": "For ethereum gas fee cash-in purpose, fixed value (600) + allowance from P2P (400)"
+				}
+			]
 		}
 	},
 	"payslips": {
@@ -125,7 +147,8 @@
 				"1": 1412,
 				"2": 2102,
 				"4": 4292,
-				"5": 2371
+				"5": 2371,
+				"6": 2097
 			}
 			
 		},
@@ -136,7 +159,8 @@
 			{
 				"2": 2117,
 				"4": 4549,
-				"5": 2270
+				"5": 2270,
+				"6": 1517
 			}
 			
 		},
@@ -146,7 +170,8 @@
 			"slp_collected": 
 			{
 				"2": 1722,
-				"4": 4781
+				"4": 4781,
+				"6": 5166
 			}
 			
 		},
@@ -166,7 +191,8 @@
 			"slp_collected": 
 			{
 				"3": 4643,
-				"4": 3234
+				"4": 3234,
+				"6": 5826
 			}
 			
 		},
@@ -175,7 +201,8 @@
 			"name": "diane",
 			"slp_collected": 
 			{
-				"4": 5865
+				"4": 5865,
+				"6": 4419
 			}
 			
 		},
@@ -185,7 +212,8 @@
 			"slp_collected": 
 			{
 				"4": 3558,
-				"5": 2371
+				"5": 2371,
+				"6": 2010
 			}
 			
 		},
@@ -195,7 +223,8 @@
 			"slp_collected": 
 			{
 				"4": 4795,
-				"5": 3009
+				"5": 3009,
+				"6": 2974
 			}
 			
 		},
@@ -215,7 +244,8 @@
 			"slp_collected": 
 			{
 				"4": 2661,
-				"5": 2404
+				"5": 2404,
+				"6": 1712
 			}
 			
 		},
@@ -225,7 +255,8 @@
 			"slp_collected": 
 			{
 				"4": 1475,
-				"5": 1947
+				"5": 1947,
+				"6": 1785
 			}
 			
 		},
@@ -235,7 +266,8 @@
 			"slp_collected": 
 			{
 				"4": 3446,
-				"5": 2800
+				"5": 2800,
+				"6": 2545
 			}
 			
 		},
@@ -254,7 +286,8 @@
 			"slp_collected": 
 			{
 				"4": 1811,
-				"5": 2224
+				"5": 2224,
+				"6": 2351
 			}
 			
 		},
@@ -278,7 +311,8 @@
 			"name": "richard",
 			"slp_collected": 
 			{
-				"5": 2809
+				"5": 2809,
+				"6": 1747
 			}
 			
 		},
@@ -291,13 +325,17 @@
 		"e7128a9062037bb560d0f919167d909b224c76c2": 
 		{
 			"name": "obey",
-			"slp_collected": {}
+			"slp_collected": {
+				"6": 2268
+			}
 			
 		},
 		"4413645383c72f21db24f6ded074a6f3817d790d": 
 		{
 			"name": "paolo",
-			"slp_collected": {}
+			"slp_collected": {
+				"6": 1801
+			}
 			
 		},
 		"1d41ae2869be18977278f6d87a085d4e1745c7d4": 
@@ -309,13 +347,17 @@
 		"0ff72d7a28394bc122549bc98a95c427522a8cc5": 
 		{
 			"name": "junielon",
-			"slp_collected": {}
+			"slp_collected": {
+				"6": 2308
+			}
 			
 		},
 		"60883f051b05ebb7f5485022c9b24b9097d95add": 
 		{
 			"name": "hernan",
-			"slp_collected": {}
+			"slp_collected": {
+				"6": 2026
+			}
 			
 		},
 		"3688c007cb301fc4f3a6b658c9d3476e7abc3861": 
@@ -327,7 +369,9 @@
 		"cb3398b2041db55a7ec00a41d7d10845297132c4": 
 		{
 			"name": "jas",
-			"slp_collected": {}
+			"slp_collected": {
+				"6": 2264
+			}
 			
 		},
 		"221742daba9e19c8154f11e62bea7a82bf4f5177": 
