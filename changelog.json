@@ -1,0 +1,28 @@
+[
+	{
+		"version": "1.0.0",
+		"date": "August 8, 2021",
+		"changes": [
+			"Initial features on menu:",
+			"My progress, From your manager, Guides, Leaderboard, Pinned messages"
+		]
+	},
+	{
+		"version": "1.1.0",
+		"date": "September 3, 2021",
+		"changes": [
+			"Added Payroll to menu",
+			"Leaderboard has global ranking",
+			"Updated some values on From you manager"
+		]
+	},
+	{
+		"version": "1.2.0",
+		"date": "September 3, 2021",
+		"changes": [
+			"Leaderboard now get data directly from the server",
+			"Leaderboard will not refresh unless you force-refresh it",
+			"Added Basuraxies to menu"
+		]
+	}
+]
