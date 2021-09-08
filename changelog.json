@@ -22,7 +22,8 @@
 		"changes": [
 			"Leaderboard now get data directly from the server",
 			"Leaderboard will not refresh unless you force-refresh it",
-			"Added Basuraxies to menu"
+			"Added Parkxie to menu",
+			"Can redirect to axie.management tracker on My Progress page"
 		]
 	}
 ]
