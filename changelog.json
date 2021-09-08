@@ -20,7 +20,7 @@
 		"version": "1.2.0",
 		"date": "September 3, 2021",
 		"changes": [
-			"Leaderboard now get data directly from the server",
+			"Featching of data in leaderboard is optimized",
 			"Leaderboard will not refresh unless you force-refresh it",
 			"Added Parkxie to menu",
 			"Can redirect to axie.management tracker on My Progress page",
