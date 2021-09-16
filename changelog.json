@@ -26,5 +26,14 @@
 			"Can redirect to axie.management tracker on My Progress page",
 			"Added changelog"
 		]
+	},
+	{
+		"version": "1.2.1",
+		"date": "September 16, 2021",
+		"changes": [
+			"Fixed not opening tracker to the correct user",
+			"Fixed Leaderboard",
+			"Fixed My Progress"
+		]
 	}
 ]
