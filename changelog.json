@@ -34,5 +34,12 @@
 			"Fixed not opening tracker to the correct user",
 			"Fixed Leaderboard and My Progress not showing information"
 		]
+	},
+	{
+		"version": "1.2.2",
+		"date": "September 16, 2021",
+		"changes": [
+			"Added scrolling in drawer so that smaller screens can see all options"
+		]
 	}
 ]
