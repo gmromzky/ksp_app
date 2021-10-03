@@ -41,5 +41,12 @@
 		"changes": [
 			"Added scrolling in drawer so that smaller screens can see all options"
 		]
+	},
+	{
+		"version": "1.3.0",
+		"date": "October 3, 2021",
+		"changes": [
+			"Added Damage Calculator to menu"
+		]
 	}
 ]
