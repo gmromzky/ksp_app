@@ -48,5 +48,12 @@
 		"changes": [
 			"Added Damage Calculator to menu"
 		]
+	},
+	{
+		"version": "1.3.1",
+		"date": "October 3, 2021",
+		"changes": [
+			"Added feature on leaderboard where if you view users, you can copy their ronin address. This ronin address can be pasted on the game itself to add a friend."
+		]
 	}
 ]
