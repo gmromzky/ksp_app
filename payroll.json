@@ -6,9 +6,7 @@
 			"owned_slp_converted": 8814.83,
 			"raw_slp_collected": 1412,
 			"raw_slp_converted": 8814.83,
-			"binance_p2p_transactions": [
-				"https://c2c.binance.com/en/fiatOrderDetail?orderNo=20239513978447523840"
-			],
+			"binance_p2p_transactions": [],
 			"deductions": []
 		},
 		"2" : {
@@ -17,9 +15,7 @@
 			"owned_slp_converted": 49547.94,
 			"raw_slp_collected": 11300,
 			"raw_slp_converted": 94692,
-			"binance_p2p_transactions": [
-				"https://c2c.binance.com/en/fiatOrderDetail?orderNo=20244883493494386688"
-			],
+			"binance_p2p_transactions": [],
 			"deductions": [
 				{
 					"id": "ronin_to_meta",
@@ -44,9 +40,7 @@
 			"owned_slp_converted": 63852.75,
 			"raw_slp_collected": 4643,
 			"raw_slp_converted": 65346.75,
-			"binance_p2p_transactions": [
-				"https://c2c.binance.com/en/fiatOrderDetail?orderNo=20249430221826424832"
-			],
+			"binance_p2p_transactions": [],
 			"deductions": [
 				{
 					"id": "ronin_to_meta",
@@ -66,10 +60,7 @@
 			"owned_slp_converted": 606734.24,
 			"raw_slp_collected": 61702,
 			"raw_slp_converted": 699463.68,
-			"binance_p2p_transactions": [
-				"https://c2c.binance.com/en/fiatOrderDetail?orderNo=20254844478111985664",
-				"https://c2c.binance.com/en/fiatOrderDetail?orderNo=20254847868847894528"
-			],
+			"binance_p2p_transactions": [],
 			"deductions": [
 				{
 					"id": "ronin_to_meta",
@@ -89,9 +80,7 @@
 			"owned_slp_converted": 270841.44,
 			"raw_slp_collected": 42183,
 			"raw_slp_converted": 377065.31,
-			"binance_p2p_transactions": [
-				"https://c2c.binance.com/en/fiatOrderDetail?orderNo=20259905335826735104"
-			],
+			"binance_p2p_transactions": [],
 			"deductions": [
 				{
 					"id": "ronin_to_meta",
@@ -116,9 +105,7 @@
 			"owned_slp_converted": 300444.76,
 			"raw_slp_collected": 50220,
 			"raw_slp_converted": 340129.98,
-			"binance_p2p_transactions": [
-				"https://c2c.binance.com/en/fiatOrderDetail?orderNo=20259905335826735104"
-			],
+			"binance_p2p_transactions": [],
 			"deductions": [
 				{
 					"id": "ronin_to_meta",
@@ -143,9 +130,7 @@
 			"owned_slp_converted": 167504.42,
 			"raw_slp_collected": 46365,
 			"raw_slp_converted": 216973.31,
-			"binance_p2p_transactions": [
-				"https://c2c.binance.com/en/fiatOrderDetail?orderNo=20271478424147083264"
-			],
+			"binance_p2p_transactions": [],
 			"deductions": []
 		},
 		"8" : {
@@ -154,9 +139,7 @@
 			"owned_slp_converted": 145145.57,
 			"raw_slp_collected": 62609,
 			"raw_slp_converted": 194804.16,
-			"binance_p2p_transactions": [
-				"https://p2p.binance.com/en/fiatOrderDetail?orderNo=20276928514271100928"
-			],
+			"binance_p2p_transactions": [],
 			"deductions": []
 		},
 		"9" : {
