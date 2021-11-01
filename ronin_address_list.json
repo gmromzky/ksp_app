@@ -104,15 +104,6 @@
 			]
 		},
 		{
-			"ronin_address": "9b7356d148d519618ebcabf9a11dc86e884567b4",
-			"name": "reinier",
-			"team": [
-				"1261877",
-				"4845998",
-				"1226439"
-			]
-		},
-		{
 			"ronin_address": "b4ffc3756fa7b3e53b24d30ae9849bffd33c73a2",
 			"name": "johnrobert",
 			"team": [
@@ -299,6 +290,15 @@
 				"3504850",
 				"1226497",
 				"8029427"
+			]
+		},
+		{
+			"ronin_address": "5b56e4bf034eb32c99c2c87e1386f468d6ecaf72",
+			"name": "glen",
+			"team": [
+				"3730089",
+				"4845998",
+				"1226439"
 			]
 		}
 	]
