@@ -55,5 +55,12 @@
 		"changes": [
 			"Added feature on leaderboard where if you view users, you can copy their ronin address. This ronin address can be pasted on the game itself to add a friend."
 		]
+	},
+	{
+		"version": "1.3.2",
+		"date": "December 2, 2021",
+		"changes": [
+			"Added stored SLP in My Progress."
+		]
 	}
 ]
