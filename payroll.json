@@ -168,6 +168,24 @@
 			"raw_slp_converted": 103838,
 			"binance_p2p_transactions": [],
 			"deductions": []
+		},
+		"12" : {
+			"date": "December 15, 2021",
+			"owned_slp_collected": 7144,
+			"owned_slp_converted": 12699,
+			"raw_slp_collected": 31860,
+			"raw_slp_converted": 56633.82,
+			"binance_p2p_transactions": [],
+			"deductions": []
+		},
+		"13" : {
+			"date": "December 31, 2021",
+			"owned_slp_collected": 44146,
+			"owned_slp_converted": 61197.55,
+			"raw_slp_collected": 55669,
+			"raw_slp_converted": 77171.35,
+			"binance_p2p_transactions": [],
+			"deductions": []
 		}
 	},
 	"payslips": {
@@ -185,7 +203,8 @@
 				"8": 1795,
 				"9": 1828,
 				"10": 1732,
-				"11": 3725
+				"11": 3725,
+				"12": 1705
 			}
 			
 		},
@@ -213,7 +232,8 @@
 				"7": 2643,
 				"9": 6188,
 				"10": 3887,
-				"11": 5599
+				"11": 5599,
+				"13": 6377
 			},
 			"bank":
 			{
@@ -284,7 +304,8 @@
 				"7": 3851,
 				"8": 2898,
 				"9": 3715,
-				"10": 3104
+				"10": 3104,
+				"13": 15149
 			},
 			"bank":
 			{
@@ -403,7 +424,8 @@
 				"5": 2809,
 				"6": 1747,
 				"7": 1493,
-				"8": 1581
+				"8": 1581,
+				"13": 8809
 			}
 			
 		},
@@ -428,7 +450,8 @@
 				"7": 2258,
 				"8": 2165,
 				"10": 4811,
-				"11": 5011
+				"11": 5011,
+				"13": 4930
 			},
 			"bank":
 			{
@@ -465,7 +488,9 @@
 				"8": 2980,
 				"9": 1809,
 				"10": 1327,
-				"11": 2043
+				"11": 2043,
+				"12": 1728,
+				"13": 1703
 			},
 			"bank":
 			{
@@ -523,7 +548,9 @@
 				"7": 3208,
 				"8": 2078,
 				"10": 4239,
-				"11": 4301
+				"11": 4301,
+				"12": 2043,
+				"13": 1867
 			}
 			
 		},
@@ -549,7 +576,8 @@
 		{
 			"name": "jude",
 			"slp_collected": {
-				"11": 1816
+				"11": 1816,
+				"13": 2228
 			}
 			
 		},
@@ -568,25 +596,35 @@
 		{
 			"name": "batutay",
 			"slp_collected": {
-				"11": 2307
+				"11": 2307,
+				"12": 1668,
+				"13": 1422
 			}
 			
 		},
 		"205a331bf6ec046cb11c75d68bdec76b1df68d79": 
 		{
 			"name": "sherman",
-			"slp_collected": {}
-			
-		},
-		"205a331bf6ec046cb11c75d68bdec76b1df68d79": 
-		{
-			"name": "sherman",
-			"slp_collected": {}
+			"slp_collected": {
+				"13": 1661
+			}
 			
 		},
 		"897728e1d6d314a3a828749de22dcc5bd5134e3d": 
 		{
 			"name": "liquorice",
+			"slp_collected": {}
+			
+		},
+		"86f26455b7b92313a4d0049a34b90e43ac616521": 
+		{
+			"name": "memen",
+			"slp_collected": {}
+			
+		},
+		"d9572e9d9298cb42ce78287aa2b757e8b167171e": 
+		{
+			"name": "kian",
 			"slp_collected": {}
 			
 		}
