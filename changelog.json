@@ -62,5 +62,13 @@
 		"changes": [
 			"Added stored SLP in My Progress."
 		]
+	},
+	{
+		"version": "1.3.3",
+		"date": "January 2, 2021",
+		"changes": [
+			"Removed Damage Calculator",
+			"Fixed axie tracker url."
+		]
 	}
 ]
