@@ -204,6 +204,24 @@
 			"raw_slp_converted": 17627,
 			"binance_p2p_transactions": [],
 			"deductions": []
+		},
+		"16" : {
+			"date": "January 31, 2022",
+			"owned_slp_collected": 6644,
+			"owned_slp_converted": 3325.47,
+			"raw_slp_collected": 18236,
+			"raw_slp_converted": 9127.53,
+			"binance_p2p_transactions": [],
+			"deductions": []
+		},
+		"17" : {
+			"date": "February 5, 2022",
+			"owned_slp_collected": 4408,
+			"owned_slp_converted": 2421.35,
+			"raw_slp_collected": 4408,
+			"raw_slp_converted": 2421.35,
+			"binance_p2p_transactions": [],
+			"deductions": []
 		}
 	},
 	"payslips": {
@@ -325,7 +343,8 @@
 				"9": 3715,
 				"10": 3104,
 				"14": 15149,
-				"15": 2412
+				"15": 2412,
+				"16": 4592
 			},
 			"bank":
 			{
@@ -471,7 +490,8 @@
 				"8": 2165,
 				"10": 4811,
 				"11": 5011,
-				"14": 4930
+				"14": 4930,
+				"17": 4408
 			},
 			"bank":
 			{
@@ -601,7 +621,8 @@
 			"name": "jude",
 			"slp_collected": {
 				"11": 1816,
-				"14": 2228
+				"14": 2228,
+				"16": 2052
 			}
 			
 		},
