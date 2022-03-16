@@ -240,6 +240,15 @@
 			"raw_slp_converted": 3197.2,
 			"binance_p2p_transactions": [],
 			"deductions": []
+		},
+		"20" : {
+			"date": "March 15, 2022",
+			"owned_slp_collected": 1700,
+			"owned_slp_converted": 1407,
+			"raw_slp_collected": 1700,
+			"raw_slp_converted": 1407,
+			"binance_p2p_transactions": [],
+			"deductions": []
 		}
 	},
 	"payslips": {
@@ -596,7 +605,8 @@
 				"7": 1530,
 				"8": 4216,
 				"9": 2921,
-				"10": 2481
+				"10": 2481,
+				"20": 1700
 			},
 			"bank":
 			{
