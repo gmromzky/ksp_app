@@ -13,20 +13,12 @@
 		{
 			"ronin_address": "dd17425e04037dd73dae587a49075a38af67febd",
 			"name": "cae",
-			"team": [
-				"7063443",
-				"7061515",
-				"414430"
-			]
+			"team": []
 		},
 		{
 			"ronin_address": "ca8c9e2be75a354a503c3deeb0b53d10a2889633",
 			"name": "romz2",
-			"team": [
-				"991",
-				"2573",
-				"2380"
-			]
+			"team": []
 		}
 	],
 
@@ -249,11 +241,7 @@
 		{
 			"ronin_address": "3688c007cb301fc4f3a6b658c9d3476e7abc3861",
 			"name": "mark",
-			"team": [
-				"4252400",
-				"3322968",
-				"2871688"
-			]
+			"team": []
 		},
 		{
 			"ronin_address": "cb3398b2041db55a7ec00a41d7d10845297132c4",
@@ -268,29 +256,17 @@
 		{
 			"ronin_address": "221742daba9e19c8154f11e62bea7a82bf4f5177",
 			"name": "bibo",
-			"team": [
-				"6249869",
-				"7059174",
-				"4924726"
-			]
+			"team": []
 		},
 		{
 			"ronin_address": "f5b5393ce65f43079acabd0e0914809b2428455a",
 			"name": "james",
-			"team": [
-				"4252892",
-				"911203",
-				"7062534"
-			]
+			"team": []
 		},
 		{
 			"ronin_address": "1cdf36cd10fe4a69520cbe05add52bb3fbc5909e",
 			"name": "keichirou",
-			"team": [
-				"7055024",
-				"7225534",
-				"1455916"
-			],
+			"team": [],
 			"ron": 4.802009
 		},
 		{
@@ -306,20 +282,12 @@
 		{
 			"ronin_address": "157be6e0c907670ad341d55e386dc3426b3f9f6e",
 			"name": "jude",
-			"team": [
-				"9104083",
-				"7517720",
-				"1226606"
-			]
+			"team": []
 		},
 		{
 			"ronin_address": "17e20b37598e74efc04c46e60e0ced8dbcf6cba3",
 			"name": "ronnel",
-			"team": [
-				"3504850",
-				"1226497",
-				"8029427"
-			],
+			"team": [],
 			"ron": 4.805864
 		},
 		{
@@ -361,11 +329,7 @@
 		{
 			"ronin_address": "d9572e9d9298cb42ce78287aa2b757e8b167171e",
 			"name": "kian",
-			"team": [
-				"3844691",
-				"1918042",
-				"562821"
-			]
+			"team": []
 		},
 		{
 			"ronin_address": "e6d05b92772da6d9ad2066c4b7167a26291229fe",
