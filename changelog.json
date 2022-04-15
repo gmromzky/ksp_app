@@ -78,5 +78,15 @@
 			"Redesigned My Progress",
 			"Added RON on My Progress"
 		]
+	},
+	{
+		"version": "2.0.0",
+		"date": "April 16, 2022",
+		"changes": [
+			"New UI",
+			"Added QR",
+			"Multi-account support",
+			"Fixed bugs"
+		]
 	}
 ]
